@@ -19,7 +19,7 @@ On Windows server in this case
 
 - Install cs2 first
 
-Important files we will modify those files if u want some specific configuration : 
+We will modify those files if u want some specific configuration : 
 ```bash
    - PATH\Steam\steamapps\common\Counter-Strike Global Offensive\game\Start Server.bat
    - PATH\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\serverconfig.cfg
