@@ -10,7 +10,7 @@ To join the awesome server u need to :
 
 - Start cs2
 - Open game console
-- copy and paste to ur console the following line : connect 192.168.0.164:27015; password zesaas
+- copy and paste to ur console the following line : connect IP:27015; password zesaas
 
 
 ## Installation of private server
