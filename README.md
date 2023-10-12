@@ -39,3 +39,9 @@ U will see the Private IP and Public IP, used to get connected.
 
 
 :warning: If u had some network cards careful, the IP display with STATUS command, can be wrong.
+
+## License
+
+[REF1](https://www.gamerconfig.eu/config/counter-strike-global-offensive/csgo+server+config,3509/)
+
+[REF2](https://pingperfect.com/index.php/knowledgebase/615/Counter-Strike--CSGO--Server-Configuration.html/)
