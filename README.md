@@ -1,27 +1,30 @@
 
-## Connect on private server
+# CSGO SERVER
 
-1. Lancer le jeu cs2
+A Private server for all of employees in ZeSaas INDUSTRY
 
-2. Puis ouvrer la console 
-   ### si console pas activer ###
-   . OPTIONS --> Options Clavier --> touche console développeur --> OUI 
-   . & dans jeu --> console développeur --> OUI
 
-3. connect 192.168.0.164:27015; password zesaas
-   . l'IP peut changer en fonction de l'adresse filer par le routeur.
-   
+## Join private server
 
-## Created own private server
+To join the awesome server u need to : 
 
-1. Installer cs2 dans le PATH souhaité.
+- Lancer le jeu cs2
+- Puis ouvrer la console
+- copy and paste to ur console the following line : connect 192.168.0.164:27015; password zesaas
 
-2. ⚠ Les fichiers principaux à modifier sont situés dans : 
+
+## Installation of private server
+
+On Windows server in this case
+
+- Install cs2 first
+
+Important files we will modify those files if u want some specific configuration : 
+```bash
    - PATH\Steam\steamapps\common\Counter-Strike Global Offensive\game\Start Server.bat
    - PATH\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\serverconfig.cfg
    - PATH\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\gamemodes_server.txt
    - PATH\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_mods ( useless dans notre cas pour le moment )
-
-3. Il faut donc lancer le Start Server.bat
-
-4. Une console est lancé et TOUTES les commandes de server ( bot_kick, sv_cheats etc..... ) sont à exec depuis la console.
+```
+- Start the Start Server.bat
+- A console will be pop, all of ur commands ( bot_kick etc...) need to be paste in this console. ( not in the game console )
