@@ -38,7 +38,7 @@ In the server console u can type :
 U will see the Private IP and Public IP, used to get connected.
 
 
-:warning: If u had some network cards careful, the IP display with STATUS command, can be wrong.
+:warning: If u have some network cards careful, the IP display with STATUS command, can be wrong.
 
 ## License
 
