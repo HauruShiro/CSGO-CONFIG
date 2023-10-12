@@ -1,7 +1,6 @@
 
-####################################################################                                                                 
-###################### CONNECT TO A SERVER #########################
-####################################################################                                                                 
+## Connect on private server
+
 1. Lancer le jeu cs2
 
 2. Puis ouvrer la console 
@@ -13,11 +12,7 @@
    . l'IP peut changer en fonction de l'adresse filer par le routeur.
    
 
-####################################################################                                                                 
-###################### CREATE A SERVER #############################
-####################################################################
-
-⚠⚠⚠⚠ Partie serveur :
+## Created own private server
 
 1. Installer cs2 dans le PATH souhaité.
 
