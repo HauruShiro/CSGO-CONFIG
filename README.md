@@ -8,8 +8,8 @@ A Private server for all of employees in ZeSaas INDUSTRY
 
 To join the awesome server u need to : 
 
-- Lancer le jeu cs2
-- Puis ouvrer la console
+- Start cs2
+- Open game console
 - copy and paste to ur console the following line : connect 192.168.0.164:27015; password zesaas
 
 
