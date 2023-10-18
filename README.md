@@ -29,7 +29,7 @@ We will modify those files if u want some specific configuration :
 - Start the Start Server.bat
 - A console will be pop, all of ur server commands ( bot_kick etc...) need to be paste in this console. ( not in the game console )
 
-## INFO
+## INFO :warning:
 
 In the server console u can type : 
 
@@ -38,7 +38,8 @@ In the server console u can type :
 U will see the Private IP and Public IP, used to get connected.
 
 
-:warning: If u have some network cards careful, the IP display with STATUS command, can be wrong.
+:warning: If u have some network cards careful, the IP display with STATUS command, can be wrong. :warning:
+
 
 ## License
 
