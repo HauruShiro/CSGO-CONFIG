@@ -27,7 +27,7 @@ We will modify those files if u want some specific configuration :
    - PATH\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo_mods ( useless dans notre cas pour le moment )
 ```
 - Start the Start Server.bat
-- A console will be pop, all of ur commands ( bot_kick etc...) need to be paste in this console. ( not in the game console )
+- A console will be pop, all of ur server commands ( bot_kick etc...) need to be paste in this console. ( not in the game console )
 
 ## INFO
 
