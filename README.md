@@ -1,7 +1,7 @@
 
 # CSGO SERVER
 
-A Private server for all of employees in ZeSaas INDUSTRY
+Tutorial how to join & how to create server 
 
 
 ## Join private server
